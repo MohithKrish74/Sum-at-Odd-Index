@@ -1,1 +1,0 @@
-# Sum-at-Odd-Index
